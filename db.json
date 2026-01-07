@@ -1,0 +1,124 @@
+{
+  "users": [
+    { 
+      "id": "1",
+      "name": "Cheran S",
+      "age": "20",
+      "city": "Tiruppur"
+    },
+    {
+      "id": "2",
+      "name": "Manoj R",
+      "age": "20",
+      "city": "Salem"
+    },
+    {
+      "id": "3",
+      "name": "Vaassudev",
+      "age": "20",
+      "city": "Kanyakumari"
+    },
+    {
+      "id": "4",
+      "name": "Priya K",
+      "age": "22",
+      "city": "Chennai"
+    },
+    {
+      "id": "5",
+      "name": "Arun P",
+      "age": "21",
+      "city": "Coimbatore"
+    },
+    {
+      "id": "6",
+      "name": "Divya S",
+      "age": "23",
+      "city": "Madurai"
+    },
+    {
+      "id": "7",
+      "name": "Rahul M",
+      "age": "24",
+      "city": "Trichy"
+    },
+    {
+      "id": "8",
+      "name": "Kavya L",
+      "age": "22",
+      "city": "Erode"
+    },
+    {
+      "id": "9",
+      "name": "Sanjay R",
+      "age": "25",
+      "city": "Vellore"
+    },
+    {
+      "id": "10",
+      "name": "Nithya V",
+      "age": "21",
+      "city": "Tirunelveli"
+    },
+    {
+      "id": "11",
+      "name": "Vikram A",
+      "age": "26",
+      "city": "Thanjavur"
+    },
+    {
+      "id": "12",
+      "name": "Anitha C",
+      "age": "23",
+      "city": "Thoothukudi"
+    },
+    {
+      "id": "13",
+      "name": "Surya K",
+      "age": "22",
+      "city": "Puducherry"
+    },
+    {
+      "id": "14",
+      "name": "Meena R",
+      "age": "20",
+      "city": "Krishnagiri"
+    },
+    {
+      "id": "15",
+      "name": "Ravi T",
+      "age": "27",
+      "city": "Namakkal"
+    },
+    {
+      "id": "16",
+      "name": "Sowmiya P",
+      "age": "21",
+      "city": "Karur"
+    },
+    {
+      "id": "17",
+      "name": "Hariharan S",
+      "age": "24",
+      "city": "Cuddalore"
+    },
+    {
+      "id": "18",
+      "name": "Swetha N",
+      "age": "22",
+      "city": "Dindigul"
+    },
+    {
+      "id": "19",
+      "name": "Prakash V",
+      "age": "28",
+      "city": "Nagapattinam"
+    },
+    {
+      "id": "20",
+      "name": "Lakshmi G",
+      "age": "25",
+      "city": "Sivakasi"
+    }
+  ]
+}
